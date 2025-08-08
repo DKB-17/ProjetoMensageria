@@ -4,10 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2da96d82-23d0-439f-ab3d-4fe44faff8bb" name="Changes" comment="Projeto Finalizado">
+    <list default="true" id="2da96d82-23d0-439f-ab3d-4fe44faff8bb" name="Changes" comment="Necessario testa">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/contatos.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/contatos.xlsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/beae38d0-e834-42c0-82ba-2bc00f7a87da.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/contatos.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/erros.csv" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,21 +46,22 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Python.main.executor": "Run",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
-    "last_opened_file_path": "C:/Users/HomePC/Desktop/ProjetoMensageria",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.main-with-interface.executor&quot;: &quot;Run&quot;,
+    &quot;Python.main.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/HomePC/Desktop/Projeto Pic/Fontes Pesquisa&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -78,6 +80,9 @@
       <updated>1730646491049</updated>
       <workItem from="1730646492451" duration="7044000" />
       <workItem from="1738523332060" duration="1777000" />
+      <workItem from="1744412023540" duration="1847000" />
+      <workItem from="1744545554546" duration="11826000" />
+      <workItem from="1747921452824" duration="2445000" />
     </task>
     <task id="LOCAL-00001" summary="Projeto Finalizado">
       <option name="closed" value="true" />
@@ -87,7 +92,31 @@
       <option name="project" value="LOCAL" />
       <updated>1730653273699</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Envio de img pelo whats">
+      <option name="closed" value="true" />
+      <created>1742939690348</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1742939690348</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Envio de img pelo whats">
+      <option name="closed" value="true" />
+      <created>1742939699848</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1742939699848</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Necessario testa">
+      <option name="closed" value="true" />
+      <created>1743112926729</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1743112926729</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -106,6 +135,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Projeto Finalizado" />
-    <option name="LAST_COMMIT_MESSAGE" value="Projeto Finalizado" />
+    <MESSAGE value="Envio de img pelo whats" />
+    <MESSAGE value="Necessario testa" />
+    <option name="LAST_COMMIT_MESSAGE" value="Necessario testa" />
   </component>
 </project>
