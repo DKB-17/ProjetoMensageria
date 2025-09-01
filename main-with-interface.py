@@ -55,7 +55,7 @@ class WhatsAppBot:
             raise Exception("Número inválido")
 
         # Continuação do envio normal
-        self.navegador.find_element(By.XPATH, '//*[@id="main"]/footer/div[1]/div/span/div/div[1]/div/button').click()
+        self.navegador.find_element(By.XPATH, '//*[@id="main"]/footer/div[1]/div/span/div/div[2]/div/div[1]/button').click()
 
         while len(self.navegador.find_elements(By.XPATH,
                                                '//*[@id="app"]/div/span[6]/div/ul/div/div/div[2]/li/div/input')) < 1:
